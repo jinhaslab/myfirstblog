@@ -1,0 +1,12 @@
+---
+title: test
+author: jinha
+date: '2020-11-08'
+slug: test
+categories:
+  - R
+tags:
+  - plot
+---
+
+just testing haha
